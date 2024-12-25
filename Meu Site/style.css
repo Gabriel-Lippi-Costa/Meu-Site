@@ -1,21 +1,17 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(to bottom, white, lightblue, blue );
     
 }
 .centralizar{
     text-align: center;
 }
 h1{
-    color: blue;
     font-family:'Times New Roman', Times, serif;
 }
 p{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
-}
-h2{
-    color: blue;
 }
 .centralizar{
     text-align: center;
